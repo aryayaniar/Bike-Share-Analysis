@@ -5,7 +5,7 @@ Streamlit Cloud: https://bike-share-analysis-project-mkhz5uxadszgw4efxjrrus.stre
 
 Clone repository:
 ```sh
-https://github.com/ZulfahBintiToyibah/bike-share-analysis-project
+https://github.com/aryayaniar/Dashbord-Analysis-Penyewaan-Sepeda
 ```
 Install pustaka:
 
